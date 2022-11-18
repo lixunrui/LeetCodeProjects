@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/EasyCollections/Array/RemoveDuplicatesfromSortedArray/bin/Debug/net6.0/RemoveDuplicatesfromSortedArray.dll",
+            "program": "${workspaceFolder}/EasyCollections/Array/BestTimeToBuySellStock/bin/Debug/net6.0/BestTimeToBuySellStock.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/EasyCollections/Array/RemoveDuplicatesfromSortedArray",
+            "cwd": "${workspaceFolder}/EasyCollections/Array/BestTimeToBuySellStock",
             "console": "externalTerminal",
             "stopAtEntry": false
         },

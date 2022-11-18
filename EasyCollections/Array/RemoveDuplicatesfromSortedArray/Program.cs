@@ -1,7 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-int[] nums = new int[] { 1, 1, 2,3,3,4,5 };
+
+int[] nums = new int[] { 1, 1, 2, 3, 3, 4, 5 };
 
 int[] expectedNums = new int[] { 1, 2 };
 

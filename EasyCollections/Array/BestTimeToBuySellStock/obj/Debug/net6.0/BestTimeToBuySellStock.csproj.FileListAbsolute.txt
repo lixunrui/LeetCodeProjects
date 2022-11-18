@@ -1,0 +1,15 @@
+D:\XR\Projects\LeetCodeProjects\EasyCollections\Array\BestTimeToBuySellStock\bin\Debug\net6.0\BestTimeToBuySellStock.exe
+D:\XR\Projects\LeetCodeProjects\EasyCollections\Array\BestTimeToBuySellStock\bin\Debug\net6.0\BestTimeToBuySellStock.deps.json
+D:\XR\Projects\LeetCodeProjects\EasyCollections\Array\BestTimeToBuySellStock\bin\Debug\net6.0\BestTimeToBuySellStock.runtimeconfig.json
+D:\XR\Projects\LeetCodeProjects\EasyCollections\Array\BestTimeToBuySellStock\bin\Debug\net6.0\BestTimeToBuySellStock.dll
+D:\XR\Projects\LeetCodeProjects\EasyCollections\Array\BestTimeToBuySellStock\bin\Debug\net6.0\BestTimeToBuySellStock.pdb
+D:\XR\Projects\LeetCodeProjects\EasyCollections\Array\BestTimeToBuySellStock\obj\Debug\net6.0\BestTimeToBuySellStock.csproj.AssemblyReference.cache
+D:\XR\Projects\LeetCodeProjects\EasyCollections\Array\BestTimeToBuySellStock\obj\Debug\net6.0\BestTimeToBuySellStock.GeneratedMSBuildEditorConfig.editorconfig
+D:\XR\Projects\LeetCodeProjects\EasyCollections\Array\BestTimeToBuySellStock\obj\Debug\net6.0\BestTimeToBuySellStock.AssemblyInfoInputs.cache
+D:\XR\Projects\LeetCodeProjects\EasyCollections\Array\BestTimeToBuySellStock\obj\Debug\net6.0\BestTimeToBuySellStock.AssemblyInfo.cs
+D:\XR\Projects\LeetCodeProjects\EasyCollections\Array\BestTimeToBuySellStock\obj\Debug\net6.0\BestTimeToBuySellStock.csproj.CoreCompileInputs.cache
+D:\XR\Projects\LeetCodeProjects\EasyCollections\Array\BestTimeToBuySellStock\obj\Debug\net6.0\BestTimeToBuySellStock.dll
+D:\XR\Projects\LeetCodeProjects\EasyCollections\Array\BestTimeToBuySellStock\obj\Debug\net6.0\refint\BestTimeToBuySellStock.dll
+D:\XR\Projects\LeetCodeProjects\EasyCollections\Array\BestTimeToBuySellStock\obj\Debug\net6.0\BestTimeToBuySellStock.pdb
+D:\XR\Projects\LeetCodeProjects\EasyCollections\Array\BestTimeToBuySellStock\obj\Debug\net6.0\BestTimeToBuySellStock.genruntimeconfig.cache
+D:\XR\Projects\LeetCodeProjects\EasyCollections\Array\BestTimeToBuySellStock\obj\Debug\net6.0\ref\BestTimeToBuySellStock.dll

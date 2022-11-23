@@ -19,6 +19,17 @@ public class Worker
 {
     public static bool ContainsDuplicate(int[] nums)
     {
-        return true;
+        ArrayGenerator.WatchDog.StartWatchDog();
+        HashSet<int> set = new();
+        bool containsDuplicate = false;
+        foreach (int i in nums)
+        {
+            bool added = set.Add(i);
+            if (added == false)
+                containsDuplicate = true;
+        }
+        ArrayGenerator.WatchDog.StopWatchDog();
+
+        return containsDuplicate;
     }
 }

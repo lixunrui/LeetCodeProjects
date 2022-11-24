@@ -35,5 +35,13 @@
 // 0 <= digits[i] <= 9
 // digits does not contain any leading 0's.
 
+int[] digits = new int[] { 9, 8, 7, 6, 5, 4, 3, 2, 1, 0 };
+
+var result = Worker.PlusOne(digits);
+
+foreach (var i in result)
+{
+    System.Console.Write(i);
+}
 
 Console.WriteLine("Hello, World!");

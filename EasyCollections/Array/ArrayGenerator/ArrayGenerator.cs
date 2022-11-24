@@ -42,7 +42,7 @@ public class WatchDog
         if (timer != null)
         {
             timer.Stop();
-            System.Console.WriteLine(timer.ElapsedMilliseconds.ToString());
+            System.Console.WriteLine("Time Elaspsed: " + timer.ElapsedMilliseconds.ToString() + "ms");
         }
         else
         {

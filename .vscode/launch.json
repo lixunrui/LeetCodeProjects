@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
 
-            "program": "${workspaceFolder}/EasyCollections/Array/SingleNumber/bin/Debug/net6.0/SingleNumber.dll",
+            "program": "${workspaceFolder}/EasyCollections/Array/IntersectionTwoArrays/bin/Debug/net6.0/IntersectionTwoArrays.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/EasyCollections/Array/SingleNumber",
+            "cwd": "${workspaceFolder}/EasyCollections/Array/IntersectionTwoArrays",
 
             "console": "externalTerminal",
             "stopAtEntry": false

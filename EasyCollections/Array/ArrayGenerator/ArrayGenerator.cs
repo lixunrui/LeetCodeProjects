@@ -1,5 +1,7 @@
 ﻿
+
 namespace ArrayGenerator;
+
 public class ArrayGenerator
 {
     public static int[] GenerateArray(long length, int minValue, int maxValue, bool duplicates = false)
@@ -42,7 +44,7 @@ public class WatchDog
         if (timer != null)
         {
             timer.Stop();
-            System.Console.WriteLine("Time Elaspsed: " + timer.ElapsedMilliseconds.ToString() + "ms");
+            System.Console.WriteLine("Time Elaspsed: " + timer.Elapsed.ToString() + " ms (" + timer.ElapsedTicks.ToString() + " ticks)");
         }
         else
         {
